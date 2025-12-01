@@ -1,1 +1,1 @@
-vau vau kuttyaaaaaa
+Ez egy egyszerű receptkönyv projekt Git gyakorláshoz.
